@@ -1,7 +1,7 @@
 # Hi there, I'm Justin 👋
 
 ## 📋 About Me
-I am a student at Florida Polytechnic University who is currently working towards getting my Master's degree in Mechanical Engineering. Currently, I am taking the course **Data Visualization and Reproducible Research** to further diversify my skillset before I graduate and enter the workforce. 
+I am a graduate student at Florida Polytechnic University who is currently working towards getting my Master's degree in Mechanical Engineering. Currently, I am taking the course **Data Visualization and Reproducible Research** to further diversify my skillset before I graduate and enter the workforce. 
 
 ## 🎯 My Interests
 * **The Outdoors**: Kayaking, biking, fishing, etc.
